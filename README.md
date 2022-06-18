@@ -1,2 +1,4 @@
-# composer-app
-A repository for WEB425-346A's Composer App
+# WEB 425 Angular with TypeScript: Composer App
+## Contributors
+* Professor Richard Krasso
+* Laura Kendl
